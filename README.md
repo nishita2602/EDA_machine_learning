@@ -1,1 +1,7 @@
 # EDA_machine_learning
+
+In this project, I am developing an automated credit card approval predictor using advanced machine learning techniques. By analyzing factors like income levels, and credit inquiries, we're creating a model to accurately evaluate credit card applications.
+
+Leveraging the Credit Card Approval dataset, My goal is to streamline and enhance the credit application process, offering faster, more consistent, and data-driven decisions.
+
+Through this project, We aim to showcase the potential of AI-driven solutions in revolutionizing critical financial decision-making processes and contributing to the advancement of financial technology.
